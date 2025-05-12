@@ -47,9 +47,9 @@ Program.c
 - Validação automática dos dados
 - Exibição de mensagens de sucesso ou erro
 
-Exemplo de Uso
+## Exemplo de Uso
 
-=== CONFIGURAÇÃO DE RESERVAS ===
+**CONFIGURAÇÃO DE RESERVAS**
 
 Informe a data mínima permitida (dd/mm/yyyy): 01/05/2025
 
@@ -59,7 +59,7 @@ Informe a hora mínima permitida (hh:mm): 08:00
 
 Informe a hora máxima permitida (hh:mm): 22:00
 
-=== DADOS DA RESERVA ===
+**DADOS DA RESERVA**
 
  Descrição da sala: Laboratório 2 
  
