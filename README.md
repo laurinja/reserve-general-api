@@ -52,17 +52,25 @@ Program.cs
 Exemplo de Uso
 
 === CONFIGURAÇÃO DE RESERVAS ===
+
 Informe a data mínima permitida (dd/mm/yyyy): 01/05/2025
+
 Informe a data máxima permitida (dd/mm/yyyy): 31/05/2025
+
 Informe a hora mínima permitida (hh:mm): 08:00
+
 Informe a hora máxima permitida (hh:mm): 22:00
 
 === DADOS DA RESERVA ===
 
  Descrição da sala: Laboratório 2 
+ 
  Data da reserva (dd/mm/yyyy): 15/05/2025
+ 
  Hora da reserva (hh:mm): 14:30
+ 
  Capacidade da sala: 25
+
 
  Reserva registrada com sucesso!
  Sala: Laboratório 2 | Data: 15/05/2025 | Hora: 14:30:00 | Capacidade: 25 alunos
