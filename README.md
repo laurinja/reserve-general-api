@@ -21,16 +21,11 @@ Aplicar conceitos de Programação Orientada a Objetos (POO), como:
 - Exibição de mensagens de sucesso ou erro
 - Impressão formatada da reserva registrada
 
-## Autores
-- Victor Luiz de Oliveira Paes
-- Laura Kauana Bareto
-- Guilherme Campos Feuser
 
 ## Estrutura do Projeto
-/Modelos  
--ConfiguracaoReserva.cs
-Reserva.cs
-Program.cs
+/Modelos/ConfiguracaoReserva.cs
+/Modelos/Reserva.cs
+Program.c
 
 
 ## Arquivos
@@ -73,5 +68,11 @@ Informe a hora máxima permitida (hh:mm): 22:00
 
 
  Reserva registrada com sucesso!
+ 
  Sala: Laboratório 2 | Data: 15/05/2025 | Hora: 14:30:00 | Capacidade: 25 alunos
+
+ ## Autores
+- Victor Luiz de Oliveira Paes
+- Laura Kauana Bareto
+- Guilherme Campos Feuser
 
