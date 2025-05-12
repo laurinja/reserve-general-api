@@ -27,9 +27,9 @@ Aplicar conceitos de Programação Orientada a Objetos (POO), como:
 - Guilherme Campos Feuser
 
 ## Estrutura do Projeto
-/Modelos
-├── ConfiguracaoReserva.cs
-└── Reserva.cs
+/Modelos  
+-ConfiguracaoReserva.cs
+Reserva.cs
 Program.cs
 
 
@@ -58,11 +58,12 @@ Informe a hora mínima permitida (hh:mm): 08:00
 Informe a hora máxima permitida (hh:mm): 22:00
 
 === DADOS DA RESERVA ===
-Descrição da sala: Laboratório 2
-Data da reserva (dd/mm/yyyy): 15/05/2025
-Hora da reserva (hh:mm): 14:30
-Capacidade da sala: 25
 
-Reserva registrada com sucesso!
-Sala: Laboratório 2 | Data: 15/05/2025 | Hora: 14:30:00 | Capacidade: 25 alunos
+ Descrição da sala: Laboratório 2 
+ Data da reserva (dd/mm/yyyy): 15/05/2025
+ Hora da reserva (hh:mm): 14:30
+ Capacidade da sala: 25
+
+ Reserva registrada com sucesso!
+ Sala: Laboratório 2 | Data: 15/05/2025 | Hora: 14:30:00 | Capacidade: 25 alunos
 
